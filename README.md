@@ -1,4 +1,4 @@
-#Create Player card list
+# Create Player card list
 
 une page qui affiche la liste de jouers prefere et les differents attribut
 
@@ -10,7 +10,7 @@ une page qui affiche la liste de jouers prefere et les differents attribut
 
 Vous pouvez ajouter ce que vous pouvez
 
-#Mise A jour
+# Mise A jour
 
 Effectivement il y aura des mis a jours plus tard ce n'etait juste un exercice
 
