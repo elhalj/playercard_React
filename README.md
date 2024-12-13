@@ -1,3 +1,19 @@
+#Create Player card list
+
+une page qui affiche la liste de jouers prefere et les differents attribut
+
+### `leur age`
+
+### `leur club`
+
+### `leur nationnalite`
+
+Vous pouvez ajouter ce que vous pouvez
+
+#Mise A jour
+
+Effectivement il y aura des mis a jours plus tard ce n'etait juste un exercice
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
